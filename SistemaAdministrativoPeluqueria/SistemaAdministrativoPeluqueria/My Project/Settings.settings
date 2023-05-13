@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProductoRegistrado" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="HaIngresado" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FechaCaducidad" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Serial1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FCKGW</Value>
+    </Setting>
+    <Setting Name="Serial2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RHQQ2</Value>
+    </Setting>
+    <Setting Name="Serial3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YXRKT</Value>
+    </Setting>
+    <Setting Name="Serial4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8TG6W</Value>
+    </Setting>
+    <Setting Name="Serial5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2B7Q8</Value>
+    </Setting>
+    <Setting Name="NumeroLicencia" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
